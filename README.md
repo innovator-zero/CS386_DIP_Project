@@ -7,7 +7,7 @@ Environment: Pytorch 1.7.1, Opencv 3.4.2
 
 代码来自https://github.com/milesial/Pytorch-UNet
 
-运行方法：
+**Usage：**
 
 1.```train.py ```训练模型，训练好的模型保存在```/checkpoints```中
 
