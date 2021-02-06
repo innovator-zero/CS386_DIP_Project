@@ -1,3 +1,10 @@
+# CS386_DIP_Project
+**SJTU 2020Fall CS386 数字图像处理 课程大作业** 
+
+**OCT图像中脉络膜边界识别**
+
+Environment: Pytorch 1.7.1, Opencv 3.4.2
+
 代码来自https://github.com/milesial/Pytorch-UNet
 
 运行方法：
